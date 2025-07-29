@@ -1,0 +1,1 @@
+Typing test detection refers to the process of monitoring and evaluating a user's typing activity to measure various typing metrics and detect specific patterns or behaviors. It is commonly used in applications like online typing speed tests, secure exam platforms, productivity tools, and behavioral biometrics.
